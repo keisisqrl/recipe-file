@@ -6,7 +6,7 @@
 name: Recipes
 
 # Short bio or description (displayed in the header)
-description: Make Food
+description: Recipes That Went Well
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
@@ -25,7 +25,7 @@ footer-links:
   instagram:
   linkedin:
   pinterest:
-  rss: riss # just type anything here for a working RSS icon
+  rss: rss # just type anything here for a working RSS icon
   twitter: keisisqrl
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url: https://recipes.thexyin.sexy
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
