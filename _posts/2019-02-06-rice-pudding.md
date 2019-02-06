@@ -3,9 +3,7 @@ layout: post
 title: Cinnamon Raisin Rice Pudding
 ---
 
-[source]: https://cafedelites.com/easy-cinnamon-raisin-rice-pudding/
-
-I'd be remiss if I didn't cite my [source][] for this. 
+This makes a great weekend breakfast or something to share. I'd be remiss if I didn't cite my [source][] for this. 
 
 You'll need to watch out to keep this from boiling over - milk likes to do that!
 
@@ -28,3 +26,5 @@ scrape the pan. You don't want things burning!
 3. Now add the condensed milk.
 
 Serve immediately - but also this reheats *really* well.
+
+[source]: https://cafedelites.com/easy-cinnamon-raisin-rice-pudding/
