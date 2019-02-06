@@ -9,7 +9,6 @@
 article.card {
   background-color: $teaGreen;
   padding: 10px;
-  border-radius: 3px;
   h1 {
     margin: 0;
   }
@@ -60,9 +59,8 @@ article.post, article.page {
   background-color: white;
   max-width: 800px;
   padding: 5px;
-  border-radius: 10px;
   h1 {
-
+    margin-top: 0;
   }
 }
 
@@ -74,6 +72,10 @@ div.container {
 
 a.pure-menu-link {
   color: $darkGray;
+}
+
+article {
+  border-radius: 10px;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
